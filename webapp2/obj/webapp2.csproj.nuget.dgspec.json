@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/workstation/Nextcloud/Workbench/Projects/webapp-az-repo/webapp2/webapp2/webapp2.csproj": {}
+    "/home/hlomane/Nextcloud/Workbench/Projects/webapp-az-repo/webapp2/webapp2/webapp2.csproj": {}
   },
   "projects": {
-    "/home/workstation/Nextcloud/Workbench/Projects/webapp-az-repo/webapp2/webapp2/webapp2.csproj": {
+    "/home/hlomane/Nextcloud/Workbench/Projects/webapp-az-repo/webapp2/webapp2/webapp2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/workstation/Nextcloud/Workbench/Projects/webapp-az-repo/webapp2/webapp2/webapp2.csproj",
+        "projectUniqueName": "/home/hlomane/Nextcloud/Workbench/Projects/webapp-az-repo/webapp2/webapp2/webapp2.csproj",
         "projectName": "webapp2",
-        "projectPath": "/home/workstation/Nextcloud/Workbench/Projects/webapp-az-repo/webapp2/webapp2/webapp2.csproj",
-        "packagesPath": "/home/workstation/.nuget/packages/",
-        "outputPath": "/home/workstation/Nextcloud/Workbench/Projects/webapp-az-repo/webapp2/webapp2/obj/",
+        "projectPath": "/home/hlomane/Nextcloud/Workbench/Projects/webapp-az-repo/webapp2/webapp2/webapp2.csproj",
+        "packagesPath": "/home/hlomane/.nuget/packages/",
+        "outputPath": "/home/hlomane/Nextcloud/Workbench/Projects/webapp-az-repo/webapp2/webapp2/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/workstation/.nuget/NuGet/NuGet.Config"
+          "/home/hlomane/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -56,7 +56,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.400/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.110/RuntimeIdentifierGraph.json"
         }
       }
     }

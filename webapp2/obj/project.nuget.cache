@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JvXHbLeOOp7rRIDXu/LuIg591uKedfZ/I3d5yx5pYSVF9quwsKqDo/TBR9Vc1RDllbxzVqWkfV3ZljxUV4zL9g==",
+  "dgSpecHash": "ZvFZ7gQTCqLoP0JAcsxgFtuf2IF1SusOA55dpxY3hExeAJAgVxVw94/V2x1LUoryJ/ZuLA3lWZSCA374tEXpRQ==",
   "success": true,
-  "projectFilePath": "/home/workstation/Nextcloud/Workbench/Projects/webapp-az-repo/webapp2/webapp2/webapp2.csproj",
+  "projectFilePath": "/home/hlomane/Nextcloud/Workbench/Projects/webapp-az-repo/webapp2/webapp2/webapp2.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
