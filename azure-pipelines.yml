@@ -28,7 +28,21 @@ steps:
     platform: '$(buildPlatform)'
     configuration: '$(buildConfiguration)'
 
-- task: VSTest@2
+#- task: VSTest@2
+#  inputs:
+#    platform: '$(buildPlatform)'
+#    configuration: '$(buildConfiguration)'
+  
+- task: SonarCloudPrepare@1
   inputs:
-    platform: '$(buildPlatform)'
-    configuration: '$(buildConfiguration)'
+    SonarCloud: 'SonarCloud'
+    organization: 'hlomaneprojects'
+    scannerMode: 'MSBuild'
+    projectKey: 'hlomaneprojects'
+    projectName: 'hlomaneprojects'
+
+- task: SonarCloudAnalyze@1
+
+- task: SonarCloudPublish@1
+  inputs:
+    pollingTimeoutSec: '300'
