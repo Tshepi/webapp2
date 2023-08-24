@@ -31,7 +31,7 @@ steps:
     SonarCloud: 'SonarCloud'
     organization: 'hlomaneprojects'
     scannerMode: 'MSBuild'
-    projectKey: 'hlomaneprojects'
+    projectKey: 'taskmaster-project'
     projectName: 'taskmaster-project'
 
 - task: VSBuild@1
